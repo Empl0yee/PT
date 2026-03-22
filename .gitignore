@@ -1,0 +1,13 @@
+bin/
+obj/
+publish/
+TestResults/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vs/
+*.sln.docstates
+.DS_Store
+Thumbs.db
+/PTWeek3
